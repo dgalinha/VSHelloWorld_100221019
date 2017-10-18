@@ -14,6 +14,9 @@ namespace VSHelloWorld_100221019
     {
         public static void Main(string[] args)
         {
+            //teste
+            //teste2
+            //teste3
             BuildWebHost(args).Run();
         }
 
