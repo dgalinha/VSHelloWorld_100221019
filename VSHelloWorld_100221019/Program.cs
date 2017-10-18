@@ -19,6 +19,7 @@ namespace VSHelloWorld_100221019
             //teste3
             //AVESTRUZ
             //BESTA
+            //MINI
             BuildWebHost(args).Run();
         }
 
